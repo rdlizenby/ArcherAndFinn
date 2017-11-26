@@ -3,7 +3,6 @@
     <div class="header-upper">
         <div class="header-selectors-wrapper">
             @await Component.InvokeAsync("TaxTypeSelector")
-            @await Component.InvokeAsync("CurrencySelector")
             @await Component.InvokeAsync("LanguageSelector")
             @await Component.InvokeAsync("Widget", new { widgetZone = "header_selectors" })
         </div>

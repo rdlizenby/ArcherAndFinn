@@ -32,7 +32,6 @@ C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Presentation\No
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\logo.jpg
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.dll
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.pdb
-C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\net461\Nop.Plugin.Widgets.NivoSlider.csprojResolveAssemblyReference.cache
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\net461\Nop.Plugin.Widgets.NivoSlider.csproj.CoreCompileInputs.cache
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\net461\Nop.Plugin.Widgets.NivoSlider.AssemblyInfoInputs.cache
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\net461\Nop.Plugin.Widgets.NivoSlider.AssemblyInfo.cs

@@ -213,6 +213,7 @@ C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.C
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.Core\bin\Debug\net461\System.Xml.XmlSerializer.dll
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.Core\bin\Debug\net461\System.Xml.XPath.dll
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.Core\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.Core\obj\Debug\net461\Nop.Core.csprojResolveAssemblyReference.cache
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.Core\obj\Debug\net461\Nop.Core.csproj.CoreCompileInputs.cache
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.Core\obj\Debug\net461\Nop.Core.AssemblyInfoInputs.cache
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.Core\obj\Debug\net461\Nop.Core.AssemblyInfo.cs

@@ -34,15 +34,16 @@
 }
 .theme-custom .nivo-controlNav a {
 	display: inline-block;
-	width: 14px;
-	height: 14px;
+	width: 10px;
+	height: 10px;
+    border-radius:5px;
 	margin: 0 7px;
 	box-shadow: 0 0 1px 0 rgba(0,0,0,0.2);
 	background-color: #fff;
 	font-size: 0;
 }
 .theme-custom .nivo-controlNav a.active {
-	background-color: #4ab2f1;
+	background-color: #666;
 }
 
 /* DIRECTIONAL NAVIGATION */

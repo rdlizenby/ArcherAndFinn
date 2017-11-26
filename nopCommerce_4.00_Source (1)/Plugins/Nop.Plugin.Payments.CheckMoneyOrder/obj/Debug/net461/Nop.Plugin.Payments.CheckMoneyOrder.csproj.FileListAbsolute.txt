@@ -5,7 +5,6 @@ C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Presentation\No
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
-C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\net461\Nop.Plugin.Payments.CheckMoneyOrder.csprojResolveAssemblyReference.cache
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\net461\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CoreCompileInputs.cache
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\net461\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfoInputs.cache
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\net461\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfo.cs

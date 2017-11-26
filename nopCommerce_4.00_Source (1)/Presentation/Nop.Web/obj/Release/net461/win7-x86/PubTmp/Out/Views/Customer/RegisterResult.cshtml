@@ -10,7 +10,7 @@
 <form asp-route="RegisterResult" asp-route-returnurl="@Context.Request.Query["ReturnUrl"]" method="post">
     <div asp-validation-summary="ModelOnly" class="message-error"></div>
     <div class="page registration-result-page">
-        <div class="page-title">
+        <div class="page-title" style="display:inline">
             <h1>@T("Account.Register")</h1>
         </div>
         <div class="page-body">

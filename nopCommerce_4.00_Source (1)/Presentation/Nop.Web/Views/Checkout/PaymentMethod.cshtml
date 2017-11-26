@@ -10,7 +10,7 @@
 }
 <div class="page checkout-page payment-method-page">
     @await Component.InvokeAsync("CheckoutProgress", new { step = CheckoutProgressStep.Payment })
-    <div class="page-title">
+    <div class="page-title" style="display:inline">
         <h1>@T("Checkout.SelectPaymentMethod")</h1>
     </div>
     <div class="page-body checkout-data">

@@ -6,7 +6,6 @@ C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Presentation\No
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
-C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.csprojResolveAssemblyReference.cache
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CoreCompileInputs.cache
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.AssemblyInfoInputs.cache
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.AssemblyInfo.cs

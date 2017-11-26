@@ -218,3 +218,4 @@ C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.C
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.Core\obj\Release\net461\Nop.Core.AssemblyInfo.cs
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.Core\obj\Release\net461\Nop.Core.dll
 C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.Core\obj\Release\net461\Nop.Core.pdb
+C:\Users\Rorie\Desktop\ArcherAndFinn\nopCommerce_4.00_Source (1)\Libraries\Nop.Core\obj\Release\net461\Nop.Core.csprojResolveAssemblyReference.cache
